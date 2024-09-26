@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "vsg-mobile-netwroking"
+rootProject.name = "vsg-mobile-networking"
 include(":shared")
