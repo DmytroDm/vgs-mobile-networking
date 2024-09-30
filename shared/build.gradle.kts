@@ -38,7 +38,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.verygoodsecurity.mobile_netwroking"
+    namespace = "com.verygoodsecurity.mobile_networking"
     compileSdk = 34
     defaultConfig {
         minSdk = 21

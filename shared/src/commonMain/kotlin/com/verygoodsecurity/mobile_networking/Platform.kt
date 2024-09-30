@@ -1,4 +1,4 @@
-package com.verygoodsecurity.mobile_netwroking
+package com.verygoodsecurity.mobile_networking
 
 interface Platform {
     val name: String

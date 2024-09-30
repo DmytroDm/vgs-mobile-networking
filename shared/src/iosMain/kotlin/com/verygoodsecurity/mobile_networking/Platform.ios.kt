@@ -1,5 +1,6 @@
-package com.verygoodsecurity.mobile_netwroking
+package com.verygoodsecurity.mobile_networking
 
+import com.verygoodsecurity.mobile_networking.Platform
 import platform.UIKit.UIDevice
 
 class IOSPlatform: Platform {
