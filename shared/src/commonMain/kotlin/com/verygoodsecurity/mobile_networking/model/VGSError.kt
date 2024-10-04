@@ -1,0 +1,14 @@
+package com.verygoodsecurity.mobile_networking.model
+
+enum class VGSError(val code: Int) {
+    URL_NOT_VALID(1480),
+    NO_INTERNET_PERMISSIONS(1481),
+    NO_NETWORK_CONNECTIONS(1482),
+    TIME_OUT(1483),
+    INPUT_DATA_NOT_VALID(1001),
+    FIELD_NAME_NOT_SET(1004),
+    FILE_NOT_FOUND(1101),
+    FILE_NOT_SUPPORT(1102),
+    FILE_SIZE_OVER_LIMIT(1103),
+    NOT_ACTIVITY_CONTEXT(1105)
+}
